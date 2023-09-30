@@ -1,3 +1,1 @@
-git is awesome!
-Это новая строчка
-new line
+experiment with amend
